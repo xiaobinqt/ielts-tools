@@ -1,4 +1,4 @@
-module listening-corpus
+module dictation
 
 go 1.20
 

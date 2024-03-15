@@ -23,7 +23,7 @@ func Check(ctx *cli.Context) (err error) {
 	filePath := fmt.Sprintf("%s%c%s%c%s%c%s%c%s.%s.txt", dirwd, os.PathSeparator, CORPUS, os.PathSeparator,
 		dir, os.PathSeparator, chapter, os.PathSeparator, chapter, test)
 
-	origial, err := readTxt(filePath)
+	original, err := readTxt(filePath)
 	if err != nil {
 		err = errors.Wrapf(err, "读取原始文件出错")
 		return err
@@ -39,15 +39,15 @@ func Check(ctx *cli.Context) (err error) {
 	//printArray(dicPhrase)
 
 	// 简单填充
-	if len(dicPhrase) != len(origial) {
-		num := len(origial) - len(dicPhrase)
+	if len(dicPhrase) != len(original) {
+		num := len(original) - len(dicPhrase)
 		for i := 0; i < num; i++ {
 			dicPhrase = append(dicPhrase, "")
 		}
 	}
 
 	errWords := make([]string, 0)
-	for index, o := range origial {
+	for index, o := range original {
 		if o != dicPhrase[index] {
 			errWords = append(errWords, fmt.Sprintf("%s  |  %s ", o, dicPhrase[index]))
 		}
@@ -68,6 +68,11 @@ func printArray(arr []string) {
 	for _, each := range arr {
 		fmt.Println(each)
 	}
+	fmt.Println("-------------------------------------------")
+	if len(arr) > 0 {
+		fmt.Println(fmt.Sprintf("%s|", arr[len(arr)-1]))
+	}
+	fmt.Println("-------------------------------------------")
 }
 
 func readTxt(filePath string) (phrases []string, err error) {
