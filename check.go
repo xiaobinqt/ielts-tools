@@ -19,38 +19,88 @@ func Check(ctx *cli.Context) (err error) {
 
 	dir, chapter, test := path[0], path[1], path[2]
 	dirwd, _ := os.Getwd()
-	// 分 2 种方式查找
-	filePath := fmt.Sprintf("%s/%s/%s/%s.%s.txt", dirwd, dir, chapter, chapter, test)
-	file, err := os.Open(filePath)
+
+	filePath := fmt.Sprintf("%s%c%s%c%s%c%s%c%s.%s.txt", dirwd, os.PathSeparator, CORPUS, os.PathSeparator,
+		dir, os.PathSeparator, chapter, os.PathSeparator, chapter, test)
+
+	origial, err := readTxt(filePath)
 	if err != nil {
-		err = errors.Wrapf(err, "读取文件失败,%s", pathArg)
+		err = errors.Wrapf(err, "读取原始文件出错")
 		return err
 	}
 
-	// 创建一个字符串数组来存储结果
-	var result = make([]string, 0)
+	// 读取用户听写的单词
+	dicPath := fmt.Sprintf("%s%c%s.txt", dirwd, os.PathSeparator, pathArg)
+	dicPhrase, err := readTxt(dicPath)
+	if err != nil {
+		err = errors.Wrapf(err, "读取用户听写的内容出错")
+		return err
+	}
+	//printArray(dicPhrase)
 
-	scanner := bufio.NewScanner(file)
-	for scanner.Scan() {
-		line := scanner.Text()
-		// 使用逗号分隔行
-		parts := strings.Split(line, ",")
-		if len(parts) > 0 {
-			// 获取第一个逗号前的单词或短语
-			firstWord := strings.TrimSpace(parts[0])
-			// 添加到结果数组中
-			result = append(result, firstWord)
+	// 简单填充
+	if len(dicPhrase) != len(origial) {
+		num := len(origial) - len(dicPhrase)
+		for i := 0; i < num; i++ {
+			dicPhrase = append(dicPhrase, "")
 		}
 	}
 
-	// 检查扫描过程中是否有错误
-	if err := scanner.Err(); err != nil {
-		fmt.Println("Error scanning file:", err)
-		return
+	errWords := make([]string, 0)
+	for index, o := range origial {
+		if o != dicPhrase[index] {
+			errWords = append(errWords, fmt.Sprintf("%s  |  %s ", o, dicPhrase[index]))
+		}
 	}
 
-	// 打印结果
-	fmt.Println(result)
+	if len(errWords) == 0 {
+		fmt.Println("恭喜你，全部正确，散花!!!!")
+		return nil
+	}
+
+	printStr := strings.Join(errWords, "\n")
+	fmt.Println(printStr)
 
 	return nil
+}
+
+func printArray(arr []string) {
+	for _, each := range arr {
+		fmt.Println(each)
+	}
+}
+
+func readTxt(filePath string) (phrases []string, err error) {
+	phrases = make([]string, 0)
+	file, err := os.Open(filePath)
+	if err != nil {
+		err = errors.Wrapf(err, "readTxt 读取文件失败")
+		return nil, err
+	}
+
+	scanner := bufio.NewScanner(file)
+	// 逐行读取文件
+	for scanner.Scan() {
+		line := scanner.Text()
+
+		// 使用逗号分割行
+		parts := strings.Split(line, ",")
+
+		// 获取第一个逗号前的单词或短语
+		phrase := strings.TrimSpace(parts[0])
+
+		// 如果有多个单词组成的词组，将单词之间的多余空格替换为一个空格
+		phrase = strings.Join(strings.Fields(phrase), " ")
+
+		// 添加到结果数组中
+		phrases = append(phrases, strings.ToLower(phrase))
+	}
+
+	// 检查是否有错误
+	if err = scanner.Err(); err != nil {
+		err = errors.Wrapf(err, "读取文件失败...2222")
+		return nil, err
+	}
+
+	return phrases, nil
 }
