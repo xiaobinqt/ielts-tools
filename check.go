@@ -10,18 +10,18 @@ import (
 )
 
 func Check(ctx *cli.Context) (err error) {
-	pathArg := ctx.Args().Get(0) // ylk.11.1
+	pathArg := ctx.Args().Get(0) // ylk.8.1.1
 	path := strings.Split(pathArg, ".")
-	if len(path) < 3 {
+	if len(path) < 4 {
 		err = errors.Wrapf(err, "路径错误..")
 		return err
 	}
 
-	dir, chapter, test := path[0], path[1], path[2]
+	dir, chapter, segment, test := path[0], path[1], path[2], path[3]
 	dirwd, _ := os.Getwd()
 
 	filePath := fmt.Sprintf("%s%c%s%c%s%c%s%c%s.%s.txt", dirwd, os.PathSeparator, CORPUS, os.PathSeparator,
-		dir, os.PathSeparator, chapter, os.PathSeparator, chapter, test)
+		dir, os.PathSeparator, chapter, os.PathSeparator, segment, test)
 
 	original, err := readTxt(filePath)
 	if err != nil {
@@ -59,6 +59,7 @@ func Check(ctx *cli.Context) (err error) {
 	}
 
 	printStr := strings.Join(errWords, "\n")
+	fmt.Println()
 	fmt.Println(printStr)
 
 	return nil
