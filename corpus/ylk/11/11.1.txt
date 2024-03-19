@@ -46,7 +46,7 @@ racket	,球拍
 coach	,车厢
 handles	,把手
 nylon	,尼龙
-package	(,话费，,旅游等),套餐
+package	,(话费，,旅游等),套餐
 receipt	,收据
 waterfall	,瀑布
 partner	,伙伴
