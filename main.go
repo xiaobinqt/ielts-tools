@@ -1,6 +1,7 @@
 package main
 
 import (
+	"embed"
 	"flag"
 	"fmt"
 	"github.com/json-iterator/go/extra"
@@ -9,6 +10,9 @@ import (
 	"os"
 	"time"
 )
+
+//go:embed corpus
+var embedFiles embed.FS
 
 func main() {
 	extra.RegisterFuzzyDecoders()
@@ -19,6 +23,8 @@ func main() {
 	app.Name = "雅思听力语料库练习工具"
 	app.Description = "雅思听力语料库练习工具"
 	app.Version = "1.0.0"
+
+	SetFs(embedFiles)
 
 	// 多个命令，可以指定到 Commands 中
 	app.Commands = []*cli.Command{

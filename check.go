@@ -6,6 +6,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/urfave/cli/v2"
 	"os"
+	"path/filepath"
 	"strings"
 )
 
@@ -18,7 +19,13 @@ func Check(ctx *cli.Context) (err error) {
 	}
 
 	dir, chapter, segment, test := path[0], path[1], path[2], path[3]
-	dirwd, _ := os.Getwd()
+	exePath, err := os.Executable()
+	if err != nil {
+		err = errors.Wrapf(err, "获取 Executable 错误")
+		return err
+	}
+
+	dirwd := filepath.Dir(exePath)
 
 	filePath := fmt.Sprintf("%s%c%s%c%s%c%s%c%s.%s.txt", dirwd, os.PathSeparator, CORPUS, os.PathSeparator,
 		dir, os.PathSeparator, chapter, os.PathSeparator, segment, test)
