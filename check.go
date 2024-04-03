@@ -67,6 +67,8 @@ func Check(ctx *cli.Context) (err error) {
 
 	printStr := strings.Join(errWords, "\n")
 	fmt.Println()
+	fmt.Println(fmt.Sprintf("这一小节总共 %d 个单词, 错了 %d 个单词", len(original), len(errWords)))
+	fmt.Println()
 	fmt.Println(printStr)
 
 	return nil
