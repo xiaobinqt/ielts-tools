@@ -38,6 +38,9 @@ func Check(ctx *cli.Context) (err error) {
 
 	// 读取用户听写的单词
 	dicPath := fmt.Sprintf("%s%c%s.txt", dirwd, os.PathSeparator, pathArg)
+	if strings.HasSuffix(dicPath, ".txt.txt") {
+		dicPath = strings.ReplaceAll(dicPath, ".txt.txt", ".txt")
+	}
 	dicPhrase, err := readTxt(dicPath)
 	if err != nil {
 		err = errors.Wrapf(err, "读取用户听写的内容出错")
