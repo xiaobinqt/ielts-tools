@@ -1,0 +1,366 @@
+caravan	,房车
+navigation	,导航
+demonstration	,演示
+candles	,蜡烛
+canteen	,食堂
+intermediate	,中级的
+vegetarian	,素食主义者
+campsite	,野营点
+helicopter	,直升机
+donations	,捐赠
+moonlight	,月光
+mid-range	,中等距离
+warehouse	,仓库
+double-grill	,双层烤架
+researcher	,研究员
+website	,网站
+charge	,充电，,冲锋，,费用
+access	,使用
+bills	,账单
+waitress	,女服务生
+excursion	,远足
+duration	,持续
+elevator	,电梯
+postage	,邮费
+signature	,签字
+liberty	,自由
+adventure	,冒险
+automatic	,自动的
+painkillers	,止痛药
+sailing	,远航
+keyboard	,键盘
+transit	,运输
+enjoyable	,令人愉快的，,好玩的
+snowboarding	,滑雪
+landscape	,风景
+helmet	,头盔
+mask	,面具
+moderate	,温和的，,中度的
+ladder	,梯子
+concentration	,注意力
+categories	,分类，,类别
+variable	,变化的
+sauna	,桑拿
+child-minding	,育儿
+racket	,球拍
+coach	,车厢
+handles	,把手
+nylon	,尼龙
+package	,(话费，,旅游等),套餐
+receipt	,收据
+waterfall	,瀑布
+partner	,伙伴
+voucher	,代金券
+gym	,健身房
+laptop	,笔记本电脑
+yoga	,瑜伽
+knife	,刀
+neck	,脖子
+mat	,垫子
+container	,容器
+buffet	,自助餐
+enlargement	,扩大
+studio	,工作室
+critic	,批评家
+zoom	,变焦
+lens	,镜头
+infrastructure	,基础设施
+electricity	,电
+resort	,旅游胜地
+infection	,传染，,感染
+fountain	,喷泉
+vest	,马甲
+qualification	,资格
+poverty	,贫穷
+expectation	,期望
+glue	,胶水
+font	,字体
+reliable	,可靠的
+violin	,小提琴
+manufacturing	,制造
+outfit	,服装
+shade	,阴影，,树荫
+myth	,神话
+harvested	,收获的
+opened	,打开的
+cleaned	,干净的，,已清洁的
+expanded	,扩大的
+cooled	,冷却的，,冷却
+sealed	,密封的，,密封
+segment	,部分
+disability	,残疾
+spine	,脊柱
+pest	,害虫
+laundry	,洗衣
+survey	,调查
+rape	,强奸
+pegs	,钉桩，,钉子
+scaffold	,脚手架
+hazel	,榛子
+portrait	,肖像
+symbolism	,象征主义，,象征意义
+mud	,泥土
+certificate	,证书
+liquids	,液体
+plastic	,塑料
+storage	,存储
+Sweden	,瑞典
+grocery	,杂货店
+socialise	,社交
+lemon	,柠檬
+congratulations	,祝贺
+pump	,泵
+mirror	,镜子
+map	,地图
+birdwatching	,观鸟
+identification	,识别
+judo	,柔道
+orientation	,新生入学会
+instructor	,教练
+waterproof	,防水的
+dirt	,泥土，,灰尘
+cracked	,有裂缝的
+spa	,水疗，,温泉疗养地
+calendar	,日历
+napkin	,餐巾
+vacancy	,空缺
+clerical	,文书的
+sector	,部门
+complicated	,复杂的
+administrative	,行政的
+spreadsheet	,电子表格
+sink	,水槽
+stove	,火炉
+frustrating	,令人沮丧的
+orchestra	,管弦乐队
+ballet	,芭蕾舞
+amateur	,业余的
+composer	,作曲家
+posters	,海报
+carpentry	,木工活
+lifeguard	,救生员
+monument	,纪念碑
+locker	,有锁储物柜
+fireplace	,壁炉
+occupancy	,居住，,占据
+date of birth	,生日
+internet cafe	,网吧
+type of insurance	,保险类型
+fish tank	,鱼缸
+snow boarding	,滑雪板
+membership limitation	,会员限制
+planning meeting	,计划会议
+drama workshop	,戏剧社
+outdoor activities	,户外活动
+group deposit	,团体押金
+joining fee	,加盟费
+dance classes	,舞蹈班
+leisure centre	,休闲中心
+round tables	,圆桌
+bunch of flowers	,花束
+total deposit	,整体押金
+delivery fee	,快递费用
+special items	,特别项目
+high seasons	,旺季
+country living	,乡村生活
+peaceful environment	,和平环境
+eating out	,外出就餐
+existing skills	,现有技能
+house agent	,房屋中介
+investment schemes	,投资计划
+branch manager	,部门经理
+house insurance	,房屋保险
+side entrance	,侧门
+client engineer	,客户维护工程师
+post office	,邮局
+horse riding	,骑马
+office furniture	,办公家具
+hot chocolate	,热巧克力
+advanced lessons	,高级课程
+warm clothing	,保暖服
+free entry	,免门票
+toy factory	,玩具厂
+large slide	,大滑梯
+petrol station	,加油站
+evening appointment	,晚间约会
+employment medical certificate	,就业医疗证明
+regular check	,例行检查
+sports injury	,运动伤害
+heart disease	,心脏病
+space museum	,太空博物馆
+sun cream	,防晒霜
+personal attention	,个人注意力
+paddling pool	,嬉水池
+central heating	,中央供暖
+bank statement	,银行账单
+book reservation	,典藏
+daytime temperature	,日间温度
+cable car	,缆车
+outdoor swimming pool	,露天泳池
+baseball coach	,棒球教练
+coral reef	,珊瑚礁
+rock pool	,潮汐潭
+maintenance of gardens	,维护家园
+town hall	,市政大厅
+good value	,实惠
+ice pack	,冰袋
+alarm system	,警报系统
+order section	,订单管理部
+walking boots	,登山靴
+advanced level	,高级水平
+book keeper	,记账员
+washing staff	,裁员，,洗衣工
+home welcome	,宾至如归，,家庭欢迎
+evening meals	,晚餐
+health service	,健康服务
+old-fashioned exterior	,过时的外表
+limited parking	,停车限制
+name cards	,名片
+service manager	,服务部经理
+private company	,私人企业
+silver package	,银色包裹
+family photo	,家庭照片
+energy saving	,节能
+driving license	,驾照
+job title	,职位名称
+type of magazine	,杂志体裁
+starting salary	,起薪
+calling diversion	,呼叫转移
+renew passport	,更新护照
+current address	,当前住址
+flower shop	,花店
+nursery supervisor	,幼儿园管理员
+gold stars	,金星
+film festival	,电影节
+special requirement	,特殊需求
+back row	,后排
+dark trousers	,深色裤子
+furniture designers	,家具设计师
+monthly rent	,月租金
+preferred occupation	,首选职业
+previous major	,原专业
+previous working experience	,先前工作经验
+decoration balloons	,装饰气球
+vegetable burger	,蔬菜汉堡包
+safety regulations	,安全守则
+return tickets	,回程票
+error message	,错误信息
+customer service officer	,客服经理
+garden room	,花房
+sleeping bag	,睡袋
+isolated spot	,隔离点
+washing machine	,洗衣机
+car number	,车牌号
+group trip	,团队出游
+self drive	,自驾
+non-smoking room	,禁烟室
+culture centre	,文化中心
+dreamtime under stars	,夜晚畅想
+modern authors	,现代作家
+long stick	,长棍子
+free parking	,免费停车
+weekly return	,周回报
+extra room	,额外房间
+bank transfer	,银行转账
+short time	,短时间
+required date	,规定时间
+accommodation type	,住宿类型
+bills and meals	,账单和餐
+sports centre	,运动中心
+road runners	,哔哔鸟
+job requirement	,工作需要
+current occupation	,当前工作
+length of stay	,逗留时间
+type of accommodation	,住宿类型
+spring park	,公园名称
+starting date	,起始日期
+reference number	,参考号码
+estimated value	,估价
+family use	,家用
+safety check	,安全检查
+preferred equipment	,偏爱的装备
+flight service	,空中服务
+off-peak time	,非高峰时间
+maximum price	,最高价格
+helicopter trip	,直升机游览
+membership number	,会员号码
+organic food	,有机食物
+sports equipment	,体育装备
+poor quality	,低质量
+fresh products	,新鲜产品
+organic farming	,有机农业
+cycling route	,骑行路线
+language skill	,语言技能
+group discount	,团购优惠
+night flight	,夜航
+white mountain	,白雪覆盖的山
+dust bag	,垃圾袋
+golf court	,高尔夫球场
+rock climbing	,攀岩
+friendly faces	,和善的面孔
+no nuts	,不要坚果
+grocery stores	,杂货铺
+egg cartons	,装蛋盒
+juice bottles	,果汁瓶
+electricity supply	,电力供应
+protection policy	,保护政策
+group booking discount	,团购优惠
+sick pay	,病假工资
+van driver	,厢式货车司机
+leather shoes	,皮鞋
+advertising company	,广告公司
+teaching venue	,授课地点
+total payment	,总费用
+vegetarian food	,素食
+different performers	,不同的表演者
+new opera	,新戏剧
+fridge model	,冰箱型号
+top mount	,一种冰箱型号
+financial loss	,金融损失
+on the rack	,在架子上
+long strap	,长带子
+leather jacket	,皮夹克
+total value	,总价值
+public outskirts	,公共郊区
+customer service	,顾客服务
+international express	,公司名称
+postal fee	,邮费
+lost mails	,丢失的邮件
+ID code numbers	,身份代码
+student discount	,学生折扣
+comfortable shoes	,舒服的鞋
+daytime class	,白天课程
+value of money	,钱的价值
+in transit	,转机中
+length of waiting	,等待时间
+electronic game centre	,电玩中心
+free recipe	,免费配方
+Asian cooking class	,亚洲厨师班
+conference centre	,会议中心
+business companies	,商业公司
+inconvenient location	,不方便的位置
+basic package	,基本套餐
+good performance	,好的表现
+public show	,公开表演
+vocal class	,声乐班
+course fee	,课程费用
+personal tutor	,私人老师，,个人辅导老师
+ozone layer	,臭氧层
+coastal roads	,沿海公路
+changing room	,更衣室
+extra transportation cost	,额外的运输成本
+personal use	,个人使用
+baseball coach	,棒球教练
+side gate	,侧门
+central heating	,中央供暖
+green ride	,绿色骑行
+child seat	,儿童座椅
+job agency	,职业介绍所
+temporary staff	,临时雇员
+registration process	,注册过程
+agency representatives	,代理商代表
+interpersonal skills	,人际交往能力
+computer literate	,精通计算机
+customer service	,客户服务
+season ticket	,季票
+road runner	,跑步者

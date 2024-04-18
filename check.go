@@ -30,6 +30,10 @@ func Check(ctx *cli.Context) (err error) {
 	filePath := fmt.Sprintf("%s%c%s%c%s%c%s%c%s.%s.txt", dirwd, os.PathSeparator, CORPUS, os.PathSeparator,
 		dir, os.PathSeparator, chapter, os.PathSeparator, segment, test)
 
+	if strings.HasSuffix(filePath, ".txt.txt") {
+		filePath = strings.ReplaceAll(filePath, ".txt.txt", ".txt")
+	}
+
 	original, err := readTxt(filePath)
 	if err != nil {
 		err = errors.Wrapf(err, "读取原始文件出错")
@@ -70,7 +74,8 @@ func Check(ctx *cli.Context) (err error) {
 
 	printStr := strings.Join(errWords, "\n")
 	fmt.Println()
-	fmt.Println(fmt.Sprintf("这一小节总共 %d 个单词, 错了 %d 个单词", len(original), len(errWords)))
+	fmt.Println(fmt.Sprintf("这一小节总共 %d 个单词, 错了 %d 个单词, 正确率为 %d %%",
+		len(original), len(errWords), int((float64(len(errWords))/float64(len(original)))*100)))
 	fmt.Println()
 	fmt.Println(printStr)
 
