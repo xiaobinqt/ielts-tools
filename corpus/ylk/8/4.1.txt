@@ -1,9 +1,0 @@
-Street
-Avenue
-Road
-Lane
-Drive
-University Drive
-Square
-House
-District
