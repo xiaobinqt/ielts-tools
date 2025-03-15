@@ -1,0 +1,396 @@
+canoe	,独木舟
+labels	,标签
+luxury	,奢华
+lock-up	,带锁的
+ferries	,轮渡
+comfortable	,舒适的
+preservation	,保留，,保存
+authority	,权威
+flamingo	,火烈鸟
+trails	,踪迹
+altitude	,高度
+vegetation	,植被
+calligraphy	,书法
+layout	,布局
+format	,格式
+flooding	,泛滥
+rural	,乡下的
+hard-working	,刻苦的
+torch	,火炬
+sack	,解雇，,麻袋
+souvenirs	,纪念品
+funnel	,漏斗
+rendezvous	,约定地点
+vetting	,审核
+acknowledgement	,鸣谢
+wildlife	,野生动物
+hostel	,旅店
+water-ride	,激流勇进
+rollercoaster	,过山车
+anniversary	,周年
+committee	,委员会
+off-peak	,非高峰的
+towel	,毛巾
+all-in	,包括一切的
+hovercraft	,气垫船
+roadworthy	,适合上路的
+overfill	,填满
+archaeology	,考古学
+classification	,分类
+coursework	,课程
+cranberry	,蔓越莓
+documentary	,纪录片
+dustbin	,垃圾箱
+garbage	,垃圾
+dirt	,灰尘
+fernery	,蕨类植物
+corrections	,改正
+theoretical	,理论的
+region	,地区
+assignment	,作业
+miniature	,缩微景观
+biscuit	,饼干
+meadow	,草地
+digestive	,消化的
+fertilizer	,肥料
+rabbit	,兔子
+trash	,垃圾
+nutrition	,营养
+aging	,老化的
+hothouse	,温室
+habitat	,栖息地
+procedure	,程序
+budget	,预算
+proposal	,提议
+pavement	,路面，,人行道
+restriction	,限制
+cookery	,烹饪
+calorie	,卡路里
+noticeable	,显著的
+visibility	,能见度
+congestion	,拥塞
+fume	,烟雾
+modify	,修改
+fortune	,财富
+reptile	,爬行动物
+territory	,领土
+monogamous	,一夫一妻制的
+avoidance	,回避
+aspiration	,渴望
+aerobic	,有氧的
+expedition	,远足
+maths	,数学
+phonebook	,电话簿
+nitrogen	,氮气
+rack	,支架
+eggplant	,茄子
+shellfish	,贝类
+bakery	,面包店
+advisor	,顾问
+vehicle	,汽车
+lorry	,卡车
+inconvenience	,不方便
+module	,模块
+newsagent's	,报刊杂志店
+promotion	,促销活动
+transformation	,转型，,转变
+petitions	,请愿书
+occasional	,偶然的
+boundary	,边界
+visible	,可见
+maze	,迷宫
+circular	,圆的
+hedges	,树篱
+gardeners	,园丁
+scheme	,方案
+warden	,看守
+minority	,少数
+supportive	,支持的
+fantastic	,神奇的，,极好的
+destinations	,目的地
+fascinating	,迷人的
+option	,选项
+supplement	,补充
+alternative	,替代的
+parliament	,议会
+promenade	,沿海步道
+highlight	,突出
+medieval	,中世纪的
+subcommittee	,小组委员会
+overview	,概观
+assortment	,品种
+ramp	,坡道，,匝道
+constant	,不变的
+bend	,弯曲
+stream	,流
+irrespective	,不管的
+disastrous	,惨重的
+tropical	,热带的
+grateful	,感激的
+solar pump	,太阳能泵
+urban garden	,城市公园
+visitor centre	,访客中心
+special feature	,特点
+unaccompanied children	,无人陪伴儿童
+under-age children	,未适龄儿童
+racing car	,赛车
+comment card	,意见卡
+booking form	,预订表格
+cabin keys	,客舱钥匙
+room services	,客房服务
+after formality	,寒暄后
+music video	,音乐视频
+camera man	,摄像师
+traffic noise	,交通噪音
+sculpture garden	,雕塑花园
+oil painting	,油画
+quarantine service	,检疫服务
+postal items	,邮政物件
+plant seeds	,植物种子
+live music	,现场音乐
+meeting point	,碰头地点
+craft fair	,手工艺品集市
+fringe stage	,额外展台
+exhibitor entrance	,展览者入口
+arm badge	,袖标，,手环
+academic record	,学术记录
+class representative	,班级代表
+local artists	,当地艺术家
+river taxi	,摆渡船
+traffic jam	,堵车
+traffic lights	,交通灯
+calling fee	,电话费
+computer breakdown	,电脑死机
+express trains	,高速列车
+high winds	,疾风
+self-cafeteria	,自助餐厅
+local hero	,当地的英雄
+European painting	,欧洲画作
+learning zone	,学习区
+historical photograph	,历史摄影
+cinema zone	,电影区
+coffee shop	,咖啡店
+garden tools	,园艺工具
+garden pots	,洒水壶，,花园罐子
+tap water	,自来水
+professional knowledge	,专业知识
+special buses	,特殊巴士
+education facilities	,教育设施
+order form	,预订表格
+check number	,核对数目
+signed delivery note	,签署过的交货通知
+unappealing appearance	,无吸引力的外表
+black swans	,黑天鹅
+historical exhibition	,历史展览
+hot meal	,热食
+head office	,总部
+music room	,音乐室
+classroom tour	,参观教室
+tea and coffee	,茶和咖啡
+chess club	,象棋俱乐部
+monthly magazines	,月刊
+animal life	,动物生活
+social event	,社交活动
+annual report	,年度报告
+spare socks	,备用袜子
+total block	,防晒霜
+local museum	,当地博物馆
+secondary project	,次要项目
+late afternoon	,傍晚
+back entrance	,后门
+storage space	,储物空间
+emergency button	,紧急按钮
+hot spring	,温泉
+disabled people	,残疾人
+specific period	,特定时期
+minimum period	,最小周期
+health check	,健康检查
+sports equipment	,体育装备
+town hall	,市政大厅
+baby kangaroo	,小袋鼠
+part-time job	,业余工作
+business courses	,商科课程
+senior staff	,高级员工
+English channel	,英吉利海峡
+tropical zone	,热带地区
+tower view	,高塔视野
+elephant zone	,大象区域
+travel centre	,旅游信息中心
+travel package	,旅行行李
+budget trip	,预订旅行
+long vacation	,长假期
+supportive atmosphere	,声援气氛
+store room	,储藏室
+coffee machine	,咖啡机
+front desk	,前台
+seating area	,休息区
+local residents	,当地居民
+board games	,桌游
+massage room	,按摩室
+equal length	,同样长度
+training course	,训练课程
+tutorial fee	,辅导费用
+administration officer	,管理员
+security officer	,安保人员
+fire drill	,火灾演练
+card making	,卡片制作
+interior design	,内部设计
+water colour painting	,水彩画
+venue change	,地点转移
+minimum age	,最小年龄
+regional competition	,地区竞赛
+special price	,特殊价格
+mixed age	,混合年龄
+government fund	,政府资金
+local community	,当地居民
+control room	,控制室
+waiting room	,等候室
+cup cleaning	,杯子清理
+animal protection	,动物保护
+reset button	,重置按钮
+experience skills	,经验技能
+contact number	,联系电话
+art museum	,艺术博物馆
+stunning view	,优美风景
+street art	,街头艺术
+horseback riding	,骑马
+tent accommodation	,帐篷住宿
+wild animals	,野生动物
+stress level	,压力水平
+fancy dress	,炫酷的衣服
+family ticket	,家庭套票
+concert room	,小音乐厅
+weather observing	,天气观察
+free transportation	,免费交通
+fitness centre	,健身中心
+thick trousers	,厚裤子
+shuttle bus	,班车
+virtual volunteer	,网络志愿者
+feed animals	,喂动物
+cake factory	,蛋糕厂
+smoke alarm	,烟雾报警
+lookout point	,观景台
+face painting	,脸谱
+member restaurant	,会员餐厅
+gallery shop	,画廊
+food containers	,食物容器
+good shoes	,好鞋
+formal clothes	,正装
+dance show	,舞蹈表演
+delivery note	,交付单
+mountain climbing	,爬山
+coach trip	,训练旅程
+bush fire	,丛林火灾
+attraction zone	,景区
+handle animals	,驯养动物
+good washing facilities	,高效清洁设备
+trial test	,模拟测试
+provisional license	,临时证件
+practical theory	,实际理论
+pretzel factory	,饼干厂
+train ride	,火车之旅
+prepare refreshments	,准备点心
+weather forecast	,天气预报
+hot balloon	,热气球
+family-fast-line track ticket	,家庭快线票
+fast line ticket	,快速通道票
+cowboy show ride	,牛仔表演之旅
+herbal treatment	,草药治疗
+skating rink	,溜冰场
+one-to-one coach	,一对一教练
+introductory price	,入门价格
+gym room	,健身房
+heart monitor	,心脏监视器
+free massage	,免费按摩
+water bottle	,水瓶
+beach front view	,沙滩前景
+bright fabric	,明亮织物
+well-known singer	,知名歌手
+bottle collection	,瓶子收集
+ink cartridge	,打印机墨盒
+picnic area	,野餐区
+meal ticket	,餐券
+fuel consumption	,燃料消耗
+oil filter	,油滤器
+global travel	,全球旅行
+loss of instruments	,仪器损失
+steer the boat	,掌船舵
+marine animals	,海洋动物
+marine history	,海洋史
+meadow campsite	,牧场野营地
+caravan park	,房车停车场
+green lounge	,绿色躺椅
+cash point	,取款机，,现金处
+unregistered taxi	,黑车
+plastic bag	,塑料袋
+compulsory modules	,必修模块
+objective matters	,客观物质
+final score	,最后分数
+ancient history	,远古历史
+wooden peg	,木头桩
+animal bones	,动物骨头
+roof scaffold	,房顶脚手架
+changing room	,更衣室
+hospital comedy	,医院喜剧
+family life	,家庭生活
+science fiction	,科幻片
+heavy stuff	,重物
+business district	,商业区
+garden tools	,园艺工具
+exotic plants	,外国植物
+building materials	,建筑材料
+single session	,单独课程
+English proficiency	,英语熟练度
+police offence	,袭警
+traffic violation	,违反交规
+practical elements	,实用元素
+tuition fees	,学费
+compulsory course	,必修课
+agriculture fair	,农业集市
+annual report	,年报
+electric card	,电子卡
+solar panels	,太阳能板
+electric cooker	,电子炊具
+gas cooker	,煤气灶
+inquiry desk	,问询台
+campus clinic	,校医院
+local owners	,当地所有者
+clothes manufacturing	,服装制作
+professional model	,专业模特
+fashion exhibition	,时尚展览
+limited time	,有限的时间
+toy train	,玩具火车
+gift shop	,礼品店
+free locker	,免费储物柜
+personal belongings	,个人物品
+curriculum vitae	,简历
+volunteer list	,志愿者名单
+luggage lockers	,行李柜
+bike racks	,自行车架
+waiting room	,等候室
+test room	,考场
+meadow campsite	,草地露营地
+green lounge	,绿色的休息室
+dinosaur bones	,恐龙骨骼化石
+night tour trip	,夜游旅行
+artificial light	,人造光
+mineral resources	,矿产资源
+racing car	,赛车
+face painting	,面部彩绘
+wood of hazel	,榛树的木头
+building wood	,建筑木材
+heavy stuff	,重的东西
+annual report	,年度报告
+trade journals	,贸易期刊
+guest speaker	,特邀发言人
+residential area	,居住区
+troop exercises	,军事演习
+wooden sculptures	,木雕
+extended family	,大家庭
+related project	,相关项目
+tour manager	,旅游经理
+heritage sites	,遗迹
+adventure playground	,冒险公园
+formal gardens	,正式花园
+wild flowers	,野花
+palm trees	,棕榈树

@@ -1,0 +1,75 @@
+deliberate | adj. 故意的；从容的；深思熟虑的 。vt. 仔细考虑；商议
+destination | n. 目的地，终点
+enthusiasm | n. 热心，热忱，热情
+substitute | n. 代替者；代用品 。vi. 替代 。vt. 代替
+symmetry | n. 对称（性）；整齐，匀称
+adjacent | adj. 邻近的，毗连的
+scent | n. 气味；痕迹；嗅觉；察觉能力 。vt. 发觉；使充满…的气味；闻到；循着遗臭追踪 。vi. 发出…的气味；有…的迹象；嗅着气味追赶
+sympathetic | adj. 同情的；赞同的；和谐的；合意的；[物]共鸣的；[解]交感神经的 。n. 交感神经；容易感受的人
+chapel | n. 礼拜；小礼拜堂，小教堂 。adj. 非国教的
+intensify | vi. 增强，强化；变激烈 。vt. 使加强，使强化；使变激烈
+colleague | n. 同事，同僚
+productive | adj. 多产的；富有成效的；能生产的；生产的，生产性的
+conclude | vt. 结束；推断；决定，作结论 。vi. 决定；推断；断定
+cord | n. 束缚；绳索 。vt. 用绳子捆绑
+ambitious | adj. 有雄心的；野心勃勃的；热望的；炫耀的
+doubtless | adv. 无疑地；确定地；大概，多半 。adj. 无疑的；确定的
+factor | n. 因素；因数；要素；代理人 。vi. 做代理商 。vt. 把…作为因素计入；代理经营；把…分解成
+mortal | adj. 终有一死的；致死的；凡人的；不共戴天的 。n. 人类，凡人
+momentum | n. 动力；动量；冲力；势头
+substantial | adj. 大量的；实质的；内容充实的 。n. 本质；重要材料
+gland | n. [解]腺
+agony | n. 极大的痛苦；苦恼；临死的挣扎
+clone | n. 靠营养生殖而由母体分离繁殖的植物；无性繁殖；无性系；克隆 。vt. 无性繁殖，复制
+interfere | vi. 干涉；打扰；妨碍 。vt. 冲突；介入
+denote | vt. 表示，指示
+register | vt. 记录；注册；登记；把…挂号；挂号邮寄；正式提出 。vi. 登记；注册；挂号 。n. 注册；登记簿；登记；记录；寄存器
+perpetual | adj. 永久的；四季开花的；不断的；无期限的
+shaft | n. 拍杆；轴；箭杆；杆状物；vt. 利用；在……上装杆
+sympathy | n. 同情；赞同；慰问
+contemplate | vt. 沉思；注视；思忖；预期 。vi. 冥思苦想；深思熟虑
+feast | vt. 款待，宴请；享受 。n. 节日；筵席，宴会 。vi. 享受；参加宴会
+irritate | vt. 激怒；刺激，使兴奋 。vi. 引起恼怒，引起不愉快
+diagnose | vt. 诊断；断定 。vi. 判断；诊断
+dominate | vt. 支配；控制；占优势；在…中占主要地位 。vi. 处于支配地位；占优势
+installment | n. 分期付款；部分；就职；安装
+response | n. 响应；反应；回答
+enhance | vt. 提高；增加；加强
+poisonous | adj. 有毒的；恶毒的；讨厌的
+implicit | adj. 暗示的；盲从的；含蓄的
+hound | vt. 追猎；烦扰；激励 。n. 猎犬；卑劣的人
+pore | vi. 细想；凝视；熟读 。n. 气孔；小孔 。vt. 使注视
+alert | vt. 使警觉，使意识到；警告 。adj. 警惕的，警觉的；留心的 。n. 警报；警戒，警惕
+sophisticated | adj. 久经世故的；富有经验的；精致的；复杂的 。v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
+principal | n. 校长；资本；委托人，当事人；主犯 。adj. 首要的；最重要的
+envisage | vt. 正视，面对；想像
+emphasize | vt. 强调，着重
+handbook | n. 手册；指南
+infant | n. 婴儿；幼儿；[律]未成年人 。adj. 婴儿的；幼稚的；初期的；未成年的
+calcium | n. 钙
+symphony | n. 交响乐；谐声，和声
+questionnaire | n. 问卷；调查表
+protest | vi. 抗议；断言 。vt. 抗议；断言 。n. 抗议 。adj. 抗议性的；表示抗议的
+glide | n. 滑翔；滑行；滑移；滑音 。vt. 滑翔；滑行；悄悄地走；消逝 。vi. 使滑行；使滑动
+erosion | n. 侵蚀，腐蚀
+bust | vi. 爆裂；破产；降低级别 。vt. 使爆裂；使破产；逮捕 。n. 半身像；胸部；萧条；破产 。adj. 破产了的；毁坏了的
+hysterical | adj. 歇斯底里的；异常兴奋的 。hysterical: 癔病的|歇斯底里的|狂乱的 。hysterical neurosis: 歇斯底里神经官能症|歇斯底里 。hysterical epilepsy: 癔病性癫痫
+alcohol | n. 酒精，乙醇
+symposium | n. 讨论会，座谈会；专题论文集；酒宴，宴会
+manual | adj. 体力的；手工的 。n. 手册，指南
+fury | n. 狂怒；暴怒；激怒者
+compute | vt. 计算；估算；用计算机计算 。vi. 计算；估算；推断 。n. 计算；推断；估计
+brutal | adj. 残忍的；野蛮的，不讲理的
+excess | n. 无节制；过度，过量；超过，超额 。adj. 额外的，过量的；附加的
+olive | n. 橄榄；橄榄色；橄榄树 。adj. 橄榄的；橄榄色的
+syndrome | n. [医]综合征；[医]综合症状；[医]并发症状；[计]校验子；[计]并发位
+pirate | n. 海盗；盗版；侵犯专利权者 。vt. 掠夺；翻印；剽窃 。vi. 做海盗；从事劫掠
+betray | vt. 背叛；出卖；泄露（秘密）；露出…迹象
+conservative | adj. 保守的 。n. 保守派，守旧者
+interpret | vt. 说明；口译 。vi. 解释；翻译
+cliff | n. 绝壁；悬崖
+lunar | adj. 银的；微亮的；阴历的；月亮的，月球的
+signify | vt. 表示；意味；预示 。vi. 有重要性；要紧；冒充内行
+synthesis | n. 综合，合成；综合体
+reunion | n. 重聚
+constituent | n. 成分；选民；委托人 。adj. 构成的；选举的

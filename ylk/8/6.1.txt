@@ -1,0 +1,44 @@
+anthropology	,人类学
+archaeology	,考古学
+astrology	,占星术
+astronomy	,天文学
+applied science	,应用科学
+general science	,大众科学
+biology	,生物学
+microbiology	,微生物学
+environmental science	,环境科学
+life science	,生命科学
+economics	,经济学
+economic history	,经济学史
+psychology	,心理学
+psychological course	,心理课
+time management	,时间管理课
+money management	,理财课
+literature	,文学
+School of Arts and Sciences	,文理学院
+computers	,计算机课
+philosophy	,哲学
+survival course	,生存课程
+stress management	,压力管理课
+sociology	,社会学
+physiology	,生理学
+planet science	,行星科学
+medical science	,医学
+geography	,地理
+chemistry	,化学
+law	,法学，,法律
+photojournalism	,摄影新闻学
+linguistics	,语言学
+psycholinguistics	,心理语言学
+politics	,政治
+history	,历史
+physical education	,体育课
+PE	,体育课
+mathematics	,数学
+finance	,金融学
+mass media	,大众传媒
+statistics	,统计学
+mining	,采矿
+engineering	,工程学
+architecture	,建筑学
+fine arts	,美术

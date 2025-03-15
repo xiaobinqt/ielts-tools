@@ -16,9 +16,11 @@
 
 .idea
 
-*.[tT][xX][tT]
-!/corpus/**/*.txt
+# *.[tT][xX][tT]
+# !/corpus/**/*.txt
 
+dictation/*.[tT][xX][tT]
+wrong_words/*.[tT][xX][tT]
 
 # Dependency directories (remove the comment below to include it)
 # vendor/

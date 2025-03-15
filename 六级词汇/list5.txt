@@ -1,0 +1,73 @@
+eligible | adj. 合格的，合适的；符合条件的；有资格当选的 。n. 合格者；适任者；有资格者
+engage | vt. 雇佣；吸引，占用；使订婚；使参加；预定 。vi. 答应，保证；从事；交战；啮合
+intellect | n. 智力，理解力；思维逻辑领悟力；知识分子；智力高的人
+clan | n. 宗族；部落；集团
+expedition | n. 远征；迅速；探险队
+polish | n. 磨光，擦亮；上光剂，擦亮剂；优雅，精良 。vi. 擦亮，变光滑 。vt. 磨光，使发亮 。adj. 波兰的
+locality | n. 位置；地点；所在
+applaud | vt. 向…喝采；赞同；称赞 。vi. 喝彩；鼓掌欢迎
+discreet | adj. 小心的；谨慎的
+grope | vi. 摸索；探索 。vt. 摸索 。n. 摸索；触摸
+legal | adj. 法定的；法律的；合法的
+counterpart | n. 副本；配对物；极相似的人或物
+ascertain | vt. 确定；查明；探知
+descend | vi. 下降；下来；遗传；屈尊；下去 。vt. 下去；沿…向下
+immigrant | adj. 移民的；迁入的 。n. 移民，侨民
+crew | n. 全体人员，全体船员；队，组 。vi. 一起工作 。vt. 使当船员
+pose | v. 摆姿势；装模作样；提出…讨论；造成，形成 。n. 姿势，姿态；装模作样 。vi. 摆姿势；佯装；矫揉造作
+pedal | vi. 踩踏板；骑车 。n. 踏板；脚蹬子 。vt. 踩……的踏板；骑（自行车） 。adj. 脚踏的；脚的
+invaluable | adj. 无价的；非常贵重的
+audience | n. 观众；听众；接见；读者
+input | n. 投入；输入电路 。vt. 输入；将…输入电脑
+phase | n. 相；位相；阶段 。vt. 使定相；逐步执行 。vi. 逐步前进
+chronic | adj. 慢性的；长期的；习惯性的
+soar | vi. 高耸；往上飞舞；高飞 。n. 高飞；高涨
+elaborate | adj. 精心制作的；详尽的；煞费苦心的 。vt. 精心制作；详细阐述；从简单成分合成（复杂有机物） 。vi. 详细描述；变复杂
+retrospect | n. 回顾，追溯 。vi. 回顾，追溯；回想 。vt. 回顾；追忆
+strive | vi. 努力；奋斗；抗争
+profound | adj. 深厚的；意义深远的；渊博的
+cathedral | n. 大教堂
+scan | vt. 扫描；细看；浏览；详细调查；标出格律 。vi. 扫描；扫掠 。n. 扫描；浏览；审视；细看
+stroke | n. 打击；中风；笔画；冲程；尝试；轻抚 。vt. 敲击；划尾桨；划掉；抚摸 。vi. [体]击球；作尾桨手；敲击键盘
+authoritative | adj. 有权威的；命令式的；当局的
+likelihood | n. 可能性，可能
+commercial | adj. 商业的；营利的；靠广告收入的 。n. 商业广告
+promote | vt. 促进；提升；发扬；推销 。vi. 成为王后或其他大于卒的子
+stroll | n. 闲逛；漫步；巡回演出 。vi. 闲逛；散步；巡回演出 。vt. 闲逛；散步
+originate | vt. 引起；创作 。vi. 发源；发生；起航
+discern | vt. 识别；领悟，认识 。vi. 看清楚，辨别
+practicable | adj. 可实行的；可用的；行得通的
+challenge | n. 挑战；怀疑 。vt. 向…挑战
+stubborn | adj. 顽固的；难处理的；顽强的
+aggressive | adj. 好斗的；侵略性的；有进取心的；有闯劲的
+beam | n. 横梁；船宽；电波；光线；秤杆 。vt. 以梁支撑；用…照射；流露；发送 。vi. 照射；堆满笑容
+axis | n. 轴；轴线；轴心国
+lane | n. 小巷；航线；车道；[篮球]罚球区
+mercury | n. 水银；水银柱；精神
+incline | vi. 倾斜；倾向；易于 。vt. 使倾斜；使倾向于 。n. 斜面；斜坡；倾斜
+analyze | vt. 对…进行分析，分解（等于analyse）
+stumble | vi. 踌躇，蹒跚；失足；犯错 。vt. 使…困惑；使…绊倒 。n. 绊倒；蹒跚而行
+project | vi. 设计；表达；计划；投射 。vt. 设计；放映；计划；发射 。n. 事业；计划；工程
+feasible | adj. 可行的；可能的；可实行的
+definitive | n. 限定词 。adj. 最后的；限定的；决定性的
+stump | n. 树桩；残余部分；假肢 。vt. 砍伐；使为难；在…作巡回政治演说 。vi. 笨重地行走；发表竞选演说
+drill | n. 钻子；钻孔机；播种机；训练 。vi. 钻孔；训练 。vt. 训练；钻孔；条播
+solicitor | n. 律师；法务官；募捐者；掮客
+outrage | n. 暴行；侮辱；愤怒，愤慨 。vt. 对…施暴行；凌辱，强奸；激起愤怒
+stun | vt. 打昏；使震惊；给以深刻的印象 。n. 打昏；昏迷；惊倒；令人惊叹的事物
+sturdy | adj. 强健的；坚定的；健全的 。n. [医]羊晕倒病
+escort | n. 陪同；护送者；护航舰；护卫队 。vt. 护送；陪同；为…护航
+contend | vi. 竞争；斗争；奋斗；争论 。vt. 主张；为...斗争
+leather | n. 皮革；皮革制品 。vt. 用皮革包盖；抽打 。adj. 皮的；皮革制的
+commentary | n. 评论；评注；注释；说明
+gracious | adj. 亲切的；和蔼的；高尚的；雅致的 。int. 天哪；哎呀
+consequent | n. 结果 。adj. 随之发生的；作为结果的
+intimate | adj. 亲密的；私人的；精通的；[婉]有性关系的 。n. 至交；知己 。vt. 暗示；通知；宣布
+subjective | adj. 主观的；个人的；自觉的
+plead | vt. 为...辩护；托称；借口 。vi. 恳求；辩护
+imperial | adj. 皇帝的；帝国的；威严的；至高无上的 。n. 纸张尺寸；特等品
+elite | n. 精英；精华；中坚分子
+intricate | adj. 复杂的；错综的，缠结的
+submarine | n. 潜水艇；海底生物 。adj. 水下的；海底的 。vt. 用潜水艇攻击 。vi. 在下疾行；在下滑动
+liability | n. 债务；责任；倾向
+bureaucracy | n. 官僚政治；官僚主义；官僚机构

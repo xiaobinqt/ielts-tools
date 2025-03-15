@@ -1,0 +1,75 @@
+insect | n. 昆虫；卑鄙的人
+proficiency | n. 精通，熟练
+sentiment | n. 感情，情绪；观点；情操；多愁善感
+gear | n. 齿轮；传动装置；装置，工具 。vi. 适合；搭上齿轮；开始工作 。vt. 开动；搭上齿轮；使……适合；使……准备好 。adj. 好极了
+literacy | n. 读写能力；精通文学
+rectify | vt. 改正；[电]整流；[化]精馏
+overhead | adv. 在头顶上；在空中；在高处 。adj. 高架的；在头上的；在头顶上的 。n. 天花板；经常费用
+frequent | adj. 时常发生的；频繁的；惯常的 。vt. 常到，常去；时常出入于
+destiny | n. 命运，定数，天命
+cellar | n. 地窖；酒窖；地下室 。vt. 把…藏入地窖
+gigantic | adj. 巨大的，庞大的
+classical | adj. 古典的；经典的；第一流的；传统的 。n. 古典音乐
+reclaim | vt. 开拓；回收再利用；改造某人，使某人悔改 。vi. 抗议，喊叫 。n. 改造，感化；[化]再生胶
+orientation | n. 方向；定向；向东方；适应；情况介绍
+huddle | vt. 把...挤在一起；使缩成一团；草率了事 。vi. 挤作一团；蜷缩 。n. 拥挤；混乱；杂乱一团
+hasty | adj. 匆忙的；轻率的；草率的；性怠的
+cancer | n. 癌症；恶性肿瘤
+breed | vi. 繁殖；饲养；产生 。vt. 繁殖；饲养；养育，教育；引起 。n. 品种；种类，类型
+finance | n. 财政，财政学；金融 。vt. 负担经费，供给…经费 。vi. 筹措资金
+imaginative | adj. 虚构的；富于想像的；有创造力的
+establish | vt. 建立；安置；创办 。vi. 植物定植
+reconcile | vt. 使一致；使和解；调停，调解；使顺从
+fracture | n. 破裂，断裂；骨折 。vi. 破裂；折断 。vt. 使破裂
+enthusiastic | adj. 热心的；热情的；狂热的
+priority | n. 优先；优先权；优先次序；优先考虑的事
+nutrition | n. 营养，营养学；营养品
+contest | vt. 争辩；提出质疑 。vi. 竞争；争辩 。n. 竞赛；争论；争夺
+deviate | vi. 越轨；脱离 。vt. 使偏离
+pamphlet | n. 小册子
+discriminate | vt. 区别；辨别；歧视 。vi. 区别；辨别；歧视
+rivalry | n. 竞争；竞赛；对抗
+competence | n. 能力，胜任；权限；作证能力；足以过舒适生活的收入
+barricade | n. 路障；街垒；争论之处 。vt. 设路障；阻碍
+glamour | n. 魅力，魔力；迷人的美 。vt. 迷惑，迷住
+nourish | vt. 滋养；怀有；使健壮
+stab | vt. 刺；刺穿；刺伤；戳；直入 。vi. 刺；戳；刺痛；刺伤 。n. 刺；戳；突发的一阵；[口]尝试
+accumulate | vi. 累积；积聚 。vt. 积攒
+armor | n. 装甲；盔甲 。vt. 为…装甲
+slip | vi. 犯错；滑倒；减退；滑动；失足 。vt. 使滑动；滑过；摆脱；塞入；闪开 。n. 滑，滑倒；错误；下跌；事故；片，纸片 。adj. 滑动的；有活结的；活络的 。abbr. 串行线路接口协议，是旧式的协议（Serial Line Interface Protocol）
+enlighten | vt. 启发，启蒙；教导，开导；[古]照耀
+idiom | n. 成语，习语；土话
+progressive | adj. 进步的；先进的 。n. 改革论者；进步分子
+booth | n. 货摊；公用电话亭
+appendix | n. 附录；阑尾；附加物
+corrode | vt. 侵蚀；损害 。vi. 受腐蚀；起腐蚀作用
+groove | n. 凹槽，槽；最佳状态；惯例 。vt. 开槽于 。vi. 形成沟槽
+owe | vt. 感激；欠；应给予；应该把……归功于 。vi. 欠钱
+complaint | n. 抱怨；诉苦；疾病；委屈
+stability | n. 稳定性；坚定，恒心
+stabilize | vt. 使稳固，使安定 。vi. 稳定，安定
+propaganda | n. 宣传；[宗]传道总会
+flare | vt. 使张开；使闪耀；用发光信号发出；使外倾 。vi. 闪耀，闪光；燃烧；突然发怒 。n. 闪光，闪耀；耀斑；照明弹；爆发
+stable | n. 马厩；牛棚 。adj. 稳定的；坚定的；牢固的 。vi. 被关在马厩 。vt. 赶入马房
+innumerable | adj. 无数的，数不清的
+justify | vi. 证明合法；整理版面 。vt. 证明…是正当的；替…辩护
+foam | n. 泡沫；水沫；灭火泡沫 。vi. 起泡沫；吐白沫；起着泡沫流动 。vt. 使起泡沫；使成泡沫状物
+compose | vt. 使平静；构成；写作；排…的版 。vi. 排字；组成；作曲
+psychiatrist | n. 精神病学家，精神病医生
+intellectual | n. 知识分子；凭理智做事者 。adj. 智力的；聪明的；理智的 。intellectual: 知识分子|过渡的|中间的 。intellectual skill: 智力技能 。Public Intellectual: 公共知识分子|公共知识份子|公众知识分子
+objection | n. 异议，反对；缺陷，缺点；妨碍；拒绝的理由 。Objection: 我抗议！|异议|拒绝 。objection handling: 处理拒绝状况|异议处理 。Objection!: 我抗议|扂蕨祜
+costume | n. 服装，装束；戏装，剧装 。vt. 给穿上服装 。costume: 服装|装束|民族服装 。costume supervisor: 服装管理员 。costume cambric: 杂色低档轧光平布
+reaction | n. 反应，感应；反动，复古；反作用 。reaction: 反应|不良反应|反弹：价格在较长时间下跌后的回升 。exothermic reaction: 放热反应|发热反应|放热反应（体系放热给环境，化学反应的焓变为负值） 。dynamic reaction: 动压力|动力反作用|动态分析设计
+presume | vt. 假定；推测；擅自；意味着 。vi. 相信；擅自行为
+hurricane | n. 飓风，暴风
+entail | vt. 必需，使承担；[律]限定继承 。n. 限定继承，限定继承权；限定继承的财产
+referee | n. 裁判员；调解人；介绍人 。vi. 担任裁判；仲裁 。vt. 为…当裁判；调停
+dodge | n. 躲闪；托词 。vi. 躲避，避开 。vt. 躲避，避开
+foremost | adj. 最先的；最重要的 。adv. 首先；居于首位地
+stack | n. 堆；堆叠 。vt. 使堆叠；把…堆积起来 。vi. 堆积，堆叠
+circus | n. 马戏团；马戏
+disguise | vt. 假装；掩饰；隐瞒 。n. 伪装；假装；用作伪装的东西
+stagger | vt. 使交错；蹒跚；使犹豫 。vi. 蹒跚；犹豫 。n. 蹒跚；交错安排 。adj. 交错的；错开的
+recognize | vt. 承认；认出，识别 。vi. 确认，承认；具结
+staircase | n. 楼梯
+embody | vt. 体现，使具体化；具体表达

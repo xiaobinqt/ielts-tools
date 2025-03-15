@@ -1,0 +1,38 @@
+spoon | n.勺，匙，调羹
+actual | adj.实际的，现实的
+check | v.核对；检查；批改 n.检查；批改
+please | int.请 v.使人高兴，令人满意
+without | prep.没有，不
+abroad | adv.到国外；在国外
+against | prep.对着；反对
+major | adj.主要的；成年的 n.主修专业
+glad | adj.高兴的，乐意的
+neighbourhood | n.四邻，邻近地区
+enjoyable | adj.愉快的；有趣的
+symbol | n.符号，象征
+line | n.直线；排 v.画线于，（使）成行
+terrible | adj.可怕的；糟糕的
+term | n.学期；术语；条款；项
+devote | vt.奉献；致力；专心
+passage | n.（文章等的）一节；走廊；通道
+accurate | adj.正确的，准确的
+chart | n.图表；航海图
+event | n.事件，大事；竞赛
+guard | v.保卫，看守 n.防护装置；警戒
+urge | vt.催促，力劝
+would | modal v.将；愿；会 aux.v.(will的过去式）
+aim | n.目的 v.计划；瞄准；针对
+pause | n./vi.暂停，停止
+cancel | vt.取消
+play | v.玩；打（球）；播放 n.玩耍；戏剧
+bury | vt.埋，葬
+tendency | n.[C]倾向，趋势
+hesitate | v.犹豫，踌躇
+switch | v./n.更换，转换
+often | adv.经常地
+average | adj.平均的；普通的 n.平均数
+understand | v.懂得，理解
+weak | adj.虚弱的；差的
+export | vt.输出 vi.出口 n.出口（物）
+candidate | n.候选人
+devotion | n.奉献，奉献精神

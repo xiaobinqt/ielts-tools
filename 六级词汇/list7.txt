@@ -1,0 +1,74 @@
+cautious | adj. 谨慎的；十分小心的
+successive | adj. 连续的；继承的；依次的；接替的
+marginal | adj. 边缘的；末端的；临界的
+clerk | n. 职员，办事员；店员；书记；记帐员  vi. 当销售员，当店员
+rein | n. 缰绳；驾驭；统治；支配  vt. 勒住；驾驭；控制  vi. 勒住马
+ozone | n. 臭氧；新鲜的空气
+successor | n. 继承者；后续的事物
+decay | n. 衰退，衰减；腐烂，腐朽  vt. 使腐烂，使腐败；使衰退，使衰落  vi. 衰退，衰减；腐烂，腐朽  decay: 衰变|衰减|衰亡,逐渐衰弱  decay constant: 衰变常数|衰变常数，衰变常量|蜕变常数  decay curve: 衰变曲线|衰减曲线|衰变曲
+neglect | n. 疏忽，忽视；怠慢  vt. 疏忽，忽视；忽略  neglect: 忽视|疏忽|忽视、疏忽  child neglect: 忽视儿童|儿童照管不良|儿童忽视  benign neglect: 善意忽视|善意的忽略|善意忽略
+heap | n. 累积；堆；许多  vt. 堆积；堆  vi. 堆起来
+application | n. 应用；申请；敷用；应用程序
+modest | adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的
+residential | adj. 住宅的；与居住有关的
+orchestra | n. 管弦乐队；乐队演奏处
+depict | vt. 描画；描述
+convention | n. 大会；协定；惯例；习俗；约定
+association | n. 协会，联盟，社团；联合；联想
+contempt | n. 轻视，蔑视；耻辱
+signal | n. 信号；暗号；导火线  vt. 用信号通知；标志  adj. 显著的；作为信号的  vi. 发信号
+condense | vi. 浓缩；凝结  vt. 使浓缩；使压缩
+fund | n. 资金；基金；存款  vt. 投资；资助
+extreme | adj. 极端的；极度的；偏激的；尽头的  n. 极端；末端；最大程度；极端的事物
+latitude | n. 纬度；界限；活动范围
+hawk | vt. 捕捉；咳出；兜售，沿街叫卖  vi. 清嗓；咳嗽；像鹰一般地袭击  n. 鹰；鹰派成员；掠夺他人的人
+illustrate | vt. 阐明，举例说明；图解  vi. 举例
+mass | n. 大量，众多；群众，民众；块，团  adj. 大规模的，集中的；群众的，民众的  vi. 聚集起来，聚集  vt. 使集合
+hum | vi. 发低哼声  vt. 用哼声表示  n. 嗡嗡声；哼声；杂声  int. 哼；嗯
+suffice | vt. 使满足；足够…用；合格  vi. 足够；有能力
+moral | adj. 道德的；精神上的；品性端正的  n. 道德；寓意
+discard | vt. 丢弃；抛弃；放弃  vi. 放弃  n. 抛弃；被丢弃的东西或人
+plunge | n. 投入；跳进  vi. 投入；跳进；陷入  vt. 使陷入；使投入；使插入
+explicit | adj. 清楚的；明确的；直率的；详述的
+slick | adj. 光滑的；聪明的；熟练的；老套的；华而不实的  n. 平滑器；修光工具；通俗杂志  adv. 聪明地；灵活地  vt. 使漂亮；使光滑  vi. 打扮整洁
+approve | vt. 批准；赞成；为…提供证据  vi. 批准；赞成；满意
+random | adj. 任意的；胡乱的；随机的  n. 随意  adv. 胡乱地
+prolong | vt. 拖延；延长
+fundamental | adj. 基本的，根本的  n. 基本原理；基本原则
+quench | vt. 结束；熄灭，淬火；解渴；冷浸  vi. 熄灭；平息
+lease | n. 租约；租期；租赁物；租赁权  vt. 出租；租得  vi. 出租
+howl | vi. 怒吼；咆哮；狂吠  vt. 狂喊着说；对…吼叫  n. 嗥叫；怒号；嚎哭
+sufficient | adj. 足够的；充分的
+revenue | n. 税收，国家的收入；收益
+behave | vi. 表现；举止端正；（机器等）运转；（事物）起某种作用  vt. 使守规矩；使表现得…
+banquet | n. 宴会，盛宴；宴请，款待  vt. 宴请，设宴款待  vi. 参加宴会
+divine | adj. 神圣的；非凡的；天赐的；极好的  vt. 占卜；预言；用占卜勘探  vi. 占卜；预言；使用占卜勘探矿  n. 牧师；神学家
+donate | vt. 捐赠；捐献  vi. 捐赠；捐献  n. 捐赠；捐献
+longevity | n. 寿命；长寿，长命
+margin | n. 边缘；利润，余裕；页边的空白  vt. 加边于；加旁注于
+immune | adj. 免疫的；免于……的，免除的  n. 免疫者；免除者
+destructive | adj. 破坏的；毁灭性的；有害的，消极的
+climate | n. 气候；风气；思潮；风土
+impact | vt. 撞击；冲突；影响；压紧  vi. 冲击；产生影响  n. 效果；影响；碰撞；冲击力
+precedent | n. 先例；前例  adj. 在前的；在先的
+suite | n. 组曲；套房；（一批）随员，随从；（一套）家具
+disorder | n. 混乱，vt.扰乱
+sulfur | vt. 用硫磺处理  n. 硫磺；硫磺色
+refrain | vi. 制止；避免；节制，克制  n. 叠句，副歌；重复
+skeptical | adj. 怀疑的；怀疑论的，不可知论的
+defeat | vt. 击败，战胜；使…失败；挫败  n. 失败；战胜
+endure | vt. 忍耐；容忍  vi. 忍耐；持续
+outward | adj. 外面的；向外的；公开的；外服的；肉体的  adv. 在外；向外（等于outwards）；显而易见地  n. 外表；外面；物质世界
+summit | n. 顶点；最高级会议；最高阶层  adj. 最高级的；政府首脑的
+activate | vt. 刺激；使活泼；使活动；使产生放射性  vi. 有活力；激活
+summon | vt. 召唤；召集；鼓起；振作
+aggravate | vt. 加重；使恶化；[口]激怒
+annoy | vt. 骚扰；打搅；惹恼  vi. 令人讨厌；打搅；惹恼  n. 烦恼（等于annoyance）
+designate | vt. 标出；指定；把…定名为；指派  adj. 指定的；选定的
+gorgeous | adj. 华丽的，灿烂的；极好的
+reform | n. 改革，改良；改正  vt. 改革，革新；重新组成  vi. 改过；重组  adj. 改革的；改革教会的
+proclaim | vt. 声明；宣告，公布；表明；赞扬
+preferable | adj. 更好的，更可取的；更合意的
+handicap | n. 障碍；不利条件，不利的因素  vt. 妨碍，阻碍；使不利
+superficial | adj. 表面的；肤浅的  n. 表面文章；浅薄的人；[用复数]外表
+paperback | n. 平装本，平装书

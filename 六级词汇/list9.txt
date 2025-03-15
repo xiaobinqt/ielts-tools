@@ -1,0 +1,74 @@
+survival | n. 幸存，残存；幸存者，残存物
+survive | vt. 比...活得长；幸免于；幸存；生还 。vi. 幸存；活下来
+definitely | adv. 明确地，肯定地；清楚地，当然
+criticism | n. 批评；苛求；考证
+susceptible | adj. 易受影响的；易感动的；容许…的 。n. 易得病的人
+sue | vt. 请求；控告 。vi. 控告；提出请求
+peg | n. 钉；借口；桩；琴栓 。vt. 限制；钉木钉 。vi. 疾行；孜孜不倦地做某事 。adj. 越往下端越细的
+suspension | n. 暂停；悬浮；停职
+dart | n. 镖；标枪；飞镖；猛冲 。vi. 突进；猛冲；投掷 。vt. 投掷；投射
+imperative | adj. 必要的，势在必行的；命令的；紧急的 。n. 命令；祈使语气；规则；需要
+breakdown | n. 崩溃；故障；衰弱；分类；[化]分解；跺脚曳步舞
+oriental | adj. 东方人的；东方的 。n. 东方人
+sanction | n. 制裁，处罚；认可；支持 。vt. 制裁，处罚；批准；鼓励
+notable | adj. 值得注意的，显著的；著名的 。n. 名人，显要人物
+restraint | n. 抑制，克制；约束
+alternative | adj. 供选择的；选择性的；交替的 。n. 二中择一；供替代的选择
+fatigue | n. 疲劳，疲乏；杂役 。vt. 使疲劳；使心智衰弱 。vi. 疲劳 。adj. 疲劳的
+impetus | n. 动力；促进；冲力
+suspicion | n. 怀疑；疑心；一点儿；嫌疑 。vt. 怀疑
+manufacture | n. 制造；制造业；产品 。vt. 制造；加工；捏造 。vi. 制造
+opaque | adj. 不透明的；不传热的；迟钝的 。n. 不透明物 。vt. 使不透明；使不反光
+safeguard | n. 保护；保卫；保护措施 。vt. 保护，护卫
+juvenile | adj. 青少年的；幼稚的 。n. 青少年；少年读物
+erect | vt. 使竖立；建造；安装 。adj. 竖立的；笔直的；因性刺激而勃起的 。vi. 直立；勃起
+subtle | adj. 微妙的；敏感的；狡猾的；精细的；稀薄的
+autonomous | adj. 自治的；自主的；[植]自发的
+majesty | n. 威严；雄伟；权威；最高权威，王权
+budget | n. 预算，预算费 。vt. 安排，预定；把…编入预算 。vi. 编预算，做预算 。adj. 廉价的
+destruction | n. 破坏，毁灭；摧毁
+emotion | n. 情感；情绪
+reserve | n. 储备，储存；预备队；储备金；自然保护区 。vt. 保留；储备；预约 。vi. 预订
+passive | adj. 被动的，消极的；被动语态的 。n. 被动语态
+grin | v. 露齿而笑，咧着嘴笑 。n. 露齿笑
+suspicious | adj. 可疑的；怀疑的；多疑的
+elapse | vi. 时间过去；消逝 。n. 时间的过去；流逝
+innovation | n. 创新，革新；新方法
+reap | vt. 收割；收获，获得 。vi. 收割，收获
+preference | n. 偏爱，倾向；优先权
+emphasis | n. 强调；重点；加强语气
+retain | vt. 保持；雇；记住
+award | vt. 授予；判定 。n. 奖品；判决
+bound | adj. 受约束的；装有封面的；有义务的 。vt. 束缚；使跳跃 。n. 跳跃；范围 。vi. 弹起；限制
+sequence | n. 序列；顺序；续发事件 。vt. 按顺序排好
+medieval | adj. 中世纪的；仿中世纪的；老式的；[贬]原始的
+majority | n. 多数；[律]成年
+napkin | n. 餐巾；餐巾纸；尿布
+proximity | n. 亲近，接近；邻近
+preside | vi. 主持，担任会议主席 。vt. 管理
+settlement | n. 解决，处理；殖民；结算；沉降
+aesthetic | adj. 美的；美学的；审美的，具有审美趣味的
+prospect | n. 前途；预期；景色 。vi. 勘探，找矿 。vt. 勘探，勘察
+sustain | vt. 支撑，承担；维持；忍受；供养；证实
+nickname | n. 绰号；昵称 。vt. 给……取绰号；叫错名字
+evolution | n. 进展；演变；进化论
+patriot | n. 爱国者
+swamp | n. 沼泽；湿地 。vt. 使陷于沼泽；使沉没；使陷入困境 。vi. 下沉；陷入沼泽；陷入困境；不知所措（过去式swamped，过去分词swamped，现在分词swamping，第三人称单数swamps，名词swampiness，形容词swampy）
+infinite | adj. 无限的，无穷的；无数的；极大的 。n. 无限；无限的东西（如空间，时间）；无穷大
+adequate | adj. 适当的；胜任的；充足的
+probability | n. 机率；可能性；或然率
+brand | vt. 打烙印于；印…商标于；铭刻于，铭记 。n. 商标，牌子；烙印
+pursuit | n. 职业，工作；追赶，追求
+recognition | n. 承认，认出；赞誉；重视；识别；公认
+resultant | n. 合力；结果；生成物 。adj. 结果的；合成的
+resident | adj. 定居的；居住的；住院医师 。n. 居民
+swap | n. 交换；交换之物 。vt. 以...作交换；与...交换 。vi. 交易；交换
+nil | n. 无，零
+issue | n. 流出；发行物；问题；期号 。vt. 发行，发布；放出，排出；发给 。vi. 发行；流出；造成…结果；传下
+leaflet | n. 传单；小叶
+coward | n. 懦夫，懦弱的人 。adj. 胆小的，懦怯的
+cozy | adj. 舒适的，惬意的
+symbol | n. 符号；象征；标志
+periodic | adj. 周期的；定期的
+articulate | vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯 。vi. 清楚地讲话；用关节连接起来；[语]发音 。adj. 发音清晰的；口才好的；有关节的
+nonetheless | conj. 尽管如此，但是 。adv. 尽管如此，但是 。nonetheless: 虽然如此|然而|尽管如此 。but sexy nonetheless: 送大家一点清凉 。nonetheless A.: 虽然如此

@@ -1,0 +1,73 @@
+poetry | n. 诗；诗意，诗情；诗歌艺术
+highlight | vt. 强调；突出；使显著；加亮 。n. 最精彩的部分；最重要的事情；加亮区
+slash | vt. 猛砍；鞭打；严厉批评；大幅度裁减或削减 。vi. 猛砍；严厉批评 。n. 猛砍；斜线；砍痕；削减；沼泽低地
+ambition | n. 野心，雄心；抱负，志向 。vt. 有…野心；追求
+reassure | vt. 使…安心，使消除疑虑
+abundance | n. 充裕，丰富
+prosperous | adj. 繁荣的；兴旺的
+submit | vt. 使服从；呈递；主张 。vi. 提交；服从
+differentiate | vi. 区分，区别 。vt. 区分，区别
+court | n. 法院；朝廷；球场；奉承 。vt. 向…献殷勤；设法获得；招致（失败、危险等） 。vi. 求爱
+security | n. 安全；抵押品；证券；保证 。adj. 安全的；保密的；保安的
+quiver | n. 箭袋；颤抖；震动 。vi. 颤抖；振动 。vt. 使…颤动；抖动
+bowel | n. 肠；内部；同情 。vt. 将……的肚肠取出
+subordinate | n. 下属，下级；部属，属下 。adj. 次要的；从属的 。vt. 使……居下位；使……服从
+junk | n. 垃圾，废物；舢板
+consecutive | adj. 连续不断的；连贯的
+subscribe | vi. 订阅；赞成；捐款；认购；签署 。vt. 签署；赞成；捐助
+extinct | adj. 灭绝的，绝种的；熄灭的 。vt. [古]使熄灭
+cork | n. 软木；软木塞，软木制品 。vt. 用软木塞塞住；抑制，堵住 。adj. 软木制的
+glare | n. 刺眼；耀眼的光；受公众注目 。vi. 瞪眼表示 。vt. 瞪视；发眩光
+dictate | vt. 命令；口述；使听写 。vi. 口述；听写 。n. 指示；命令
+credit | n. 信用，信誉；信任；贷款；声望；学分 。vt. 相信，信任；把…归给，归功于；赞颂
+dilemma | n. 困境；进退两难；[逻]两刀论法
+prominent | adj. 突出的，显著的；杰出的；卓越的
+insane | adj. 精神病的；极愚蠢的；疯狂的
+magnitude | n. 大小；光度；重要；震级；量级
+hostage | n. 人质；抵押品
+exchange | n. 交换；兑换；交易所；交流 。vt. 交换；交易；兑换 。vi. 交换；交易；兑换
+flank | n. 侧面；侧腹；侧翼 。vt. 守侧面；位于…的侧面；攻击侧面 。vi. 侧面与…相接 。adv. 在左右两边
+convene | vt. 召集，集合；传唤 。vi. 聚集，集合
+affiliate | n. 联号；隶属的机构等 。vt. 接纳；使附属；使紧密联系 。vi. 参加，加入；发生联系
+inertia | n. 惯性；惰性，迟钝；不活动
+appearance | n. 外貌，外观；出现，露面
+subsequent | adj. 后来的，随后的
+reflect | vt. 反射，照出；反省；反映 。vi. 反射，映现；深思
+slump | vi. 下降，衰落；倒下 。n. 暴跌；衰退；消沉 。vt. 使衰落；使倒下；使降低
+skull | n. 头盖骨，脑壳
+implication | n. 暗示；牵连，卷入；含义
+diligent | adj. 勤勉的；用功的，费尽心血的
+cradle | n. 摇篮；支船架；发源地；发祥地 。vt. 抚育；把...搁在支架上；把...放在摇篮内
+adapt | vt. 改编；使适应 。vi. 适应
+skip | vi. 跳绳；遗漏；跳读；跳跃 。vt. 遗漏；跳过 。n. 跳跃；跳读
+erroneous | adj. 不正确的；错误的
+subsidiary | adj. 辅助的；附属的 。n. 子公司；辅助者
+benefit | n. 利益，好处；救济金 。vt. 有益于，对…有益 。vi. 受益，得益
+subsidy | n. 津贴；补助金；补贴
+fabric | n. 织物；构造；建筑物；组织；布
+substance | n. 物质；实质；主旨；资产
+adjust | vt. 校准；调整，使…适合 。vi. 调整，校准；适应
+elegant | adj. 高雅的，优雅的；讲究的
+edible | adj. 可食用的 。n. 食物；食品
+collaboration | n. 合作；通敌；勾结
+abuse | n. 滥用；辱骂；虐待；弊端；恶习，陋习 。vt. 滥用；辱骂；虐待
+imply | vt. 暗示；意味；隐含
+distinct | adj. 清楚的；明显的；独特的；有区别的
+economy | n. 节约；经济；理财
+dock | n. 船坞；码头；被告席；尾巴的骨肉部分 。vt. 剪短；使靠码头 。vi. 入船坞
+rim | n. 边，边缘；轮辋；圆圈 。vi. 作…的边，装边于 。vt. 作…的边，装边于
+indifferent | adj. 漠不关心的；无关紧要的；中性的，中立的
+appraisal | n. 评价；估计；估价（尤指估价财产，以便征税）
+confidential | adj. 机密的；表示信任的；获信任的
+administration | n. 管理；行政；行政机构；实施
+collapse | vi. 倒塌；瓦解；暴跌 。vt. 使倒塌，使崩溃；使萎陷 。n. 倒塌；失败；衰竭
+instantaneous | adj. 即时的；瞬间的；猝发的
+commodity | n. 日用品；商品，货物
+affection | n. 喜爱，感情；影响；感染
+environment | n. 环境，外界
+complicated | adj. 难懂的，复杂的
+comic | adj. 喜剧的；有趣的；滑稽的 。n. 喜剧演员；连环漫画；滑稽人物
+evaluate | vt. 评价；估价；求…的值 。vi. 评价；估价
+subtract | vt. 减去，去掉
+suburb | n. 郊区；边缘
+devote | vt. 奉献；致力于
