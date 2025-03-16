@@ -1,6 +1,7 @@
 import sys
 
 from datetime import datetime
+from pathlib import Path
 
 abbreviation_dict = {
     'cz': '初中词汇',
@@ -10,7 +11,7 @@ abbreviation_dict = {
 }
 
 
-def main(filename, words_book, chapter):
+def main(filename, words_book, chapter, os=None):
     # 读取文件并处理空行
     words = []
     origin_words = []
@@ -70,11 +71,13 @@ def main(filename, words_book, chapter):
     if mismatched:
         try:
             wrong_words_filename = f"wrong_words/{datetime.now().strftime("%Y-%m-%d")}-{book_name}-{chapter}.txt"
+            if Path(wrong_words_filename).exists():
+                Path(wrong_words_filename).unlink()
             with open(wrong_words_filename, 'w', encoding='utf-8') as f:
                 for wrong, correct in mismatched:
                     # 写入格式：correct | definition
                     f.write(f"{correct} | {origin_words_map[correct]}\n")
-            print(f"\n错误单词已写入到 {wrong_words_filename} 文件中，方便复习。")
+            print(f"\n错误单词方便复习已写入到 {wrong_words_filename} 文件中。")
         except Exception as e:
             print(f"写入文件时发生错误：{e}")
 
