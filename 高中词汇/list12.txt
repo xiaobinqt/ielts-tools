@@ -29,8 +29,7 @@ may | modal v.可以；也许，可能
 whose | pron./conj.谁的
 bench | n.长凳；工作台
 record | /'rekɔːd/n.记录；唱片/rɪ'kɔːd/v.录制，记录
-ring | v.（rang,rung,ringing）(钟、铃等)响；打电话 
-n.电话铃声；环形物（如环、圈、戒指等）
+ring | v.（rang,rung,ringing）(钟、铃等)响；打电话  n.电话铃声；环形物（如环、圈、戒指等）
 already | adv.已经
 reject | vt.拒绝
 alarm | n.警报

@@ -18,8 +18,7 @@ flesh | n.肉，肉体
 burglar | n.盗贼，窃贼
 succeed | vi.成功；vt.继承，接替
 require | vt.需求，要求
-above | prep.在……上面，在……上方；多于，大于； 
-adj.上面的，上述的；上文的； adv.在上面
+above | prep.在……上面，在……上方；多于，大于；  adj.上面的，上述的；上文的； adv.在上面
 dirt | n.污物，脏物；尘土
 post | n.岗位，职位；邮政，邮寄，邮件；vt.投资；邮寄；发布
 search | n./v.搜寻，搜查
@@ -27,8 +26,7 @@ aboard | prep./adv.在船上，上船
 deliver | vt.投递（信件、邮包等）；交付，给
 useless | adj.无用的
 bark | v.狗叫；n.狗叫声
-learn | vi.学，学习；（与of,about连用）得知，获悉；
-vt.学，学习，学会，得知
+learn | vi.学，学习；（与of,about连用）得知，获悉； vt.学，学习，学会，得知
 contrary | n.反面；adj.相反的
 western | adj.西方的；西部的
 sound | vi.发出声音；vt.宣告；link.v.听起来；n.声音

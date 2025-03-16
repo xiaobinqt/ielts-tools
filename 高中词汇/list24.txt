@@ -9,8 +9,7 @@ motivation | n.动机
 fry | v.油炸，油煎
 normal | adj.正常的；n.正常，常态，普通
 poor | adj.贫穷的；可怜的；差的
-tip | vt.(tipped,tipped,tipping)告诫，提示；给小费；
-n.顶端；小费；提示
+tip | vt.(tipped,tipped,tipping)告诫，提示；给小费； n.顶端；小费；提示
 defend | vt.保护，防御
 potential | adj.潜在的，可能的；n.潜力
 might | modal.v.可能；可以
@@ -31,8 +30,7 @@ shade | n.阴凉处，树荫处
 decide | v.决定，下决心
 rob | v.(robbed,robbed,robbing)抢夺，抢劫
 purpose | n.目的，意图
-taste | n.味道；品味；爱好；vt.品尝；察觉……味道；
-vi.品尝；有味道；link.v.吃起来，滋味是
+taste | n.味道；品味；爱好；vt.品尝；察觉……味道； vi.品尝；有味道；link.v.吃起来，滋味是
 seal | n.海豹
 extreme | adj.极端的，偏激的
 argue | v.争论；说服

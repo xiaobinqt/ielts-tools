@@ -8,8 +8,7 @@ sure | adj.确信，肯定 adv.<口语>的确，一定，当然
 ordinary | adj.普通的，平常的
 apply | v.申请；应用
 lecture | n.[C]讲课，演讲
-feel | vt.（felt,felt,feeling）感觉；触摸；认为 
-vi.摸索，寻找 link v.觉得；摸起来
+feel | vt.（felt,felt,feeling）感觉；触摸；认为  vi.摸索，寻找 link v.觉得；摸起来
 congratulate | vt.祝贺，恭贺
 position | n.位置；职位
 never | adv.决不，从来都不

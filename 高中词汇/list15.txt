@@ -6,8 +6,7 @@ inform | v.通知，告诉
 academic | adj.学术的；（高等）院校的 n.大学教师；学者
 trouble | n.问题；疾病；麻烦 vt.使苦恼；使忧虑；使麻烦
 meanwhile | adv.同时
-go | v.（went,gone ,going）去，走；进行；进展 
-link.v.变得，变成
+go | v.（went,gone ,going）去，走；进行；进展  link.v.变得，变成
 order | n.顺序 vt.命令；点菜；订货
 homeland | n.祖国
 used | adj.用过的；就得，二手的

@@ -7,8 +7,7 @@ primary | adj.初级的；首要的
 stay | v.保持，停止，阻止 n.逗留（时间）
 such | adv.那么，如此 adj.这样的，那样的 pron.（泛指）人，事物
 review | vt.复习；重新调查 n.复习；复查；评论
-regret | n.遗憾，懊悔；令人遗憾的事 
-vt.（regretted,regretted,regretting）遗憾；后悔
+regret | n.遗憾，懊悔；令人遗憾的事  vt.（regretted,regretted,regretting）遗憾；后悔
 fresh | adj. 新鲜的；不熟练的
 tradition | n.传统，惯例
 moral | adj.道德的，精神的 n.道德；寓意

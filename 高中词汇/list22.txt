@@ -6,8 +6,7 @@ drunk | adj.醉的
 sick | adj.有病的，患病的，不舒服的；（想）呕吐的
 phrase | n.短语，习惯用语
 deal | v.（dealt,dealt,dealing)处理；n.量，数额；交易
-up | adv.向上；在上方 adj.上面的；n. 上升；
-v.（upped,upped,upping)举起；提高；prep.向高处
+up | adv.向上；在上方 adj.上面的；n. 上升； v.（upped,upped,upping)举起；提高；prep.向高处
 dive | vi.跳水
 summary | n.[C]摘要，概要
 correct | vt.改正，纠正；adj.正确的，对的；恰当的

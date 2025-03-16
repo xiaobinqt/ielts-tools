@@ -47,7 +47,7 @@ def parse_excel_to_txt(excel_file, vocabulary):
                 # 遍历分组中的每一行
                 for index, row in group.iterrows():
                     word = str(row['英文单词']).strip()
-                    meaning = str(row['中文意思']).strip()
+                    meaning = str(row['中文意思']).strip().replace( "\n", " ")
                     if word and meaning:  # 确保单词和意思不为空
                         f.write(f"{word} | {meaning}\n")
             print(f"已生成 {txt_filename}")

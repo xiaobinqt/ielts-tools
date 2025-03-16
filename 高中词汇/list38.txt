@@ -8,8 +8,7 @@ confuse | vt.使糊涂；搞乱
 afford | vt.买得起；有时间做；承担得起；提供
 nod | v./n.点头
 access | n.通道；（使用或者见到的）机会，权利 vt.进入；存取
-official | n.（公司或政府的）官员；高级职员 
-adj.官方的，政府的；公务的
+official | n.（公司或政府的）官员；高级职员  adj.官方的，政府的；公务的
 intelligence | n.智力，聪明
 discover | vt.发现，找到
 ugly | adj.丑陋的，难看的

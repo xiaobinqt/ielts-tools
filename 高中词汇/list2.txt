@@ -13,8 +13,7 @@ collar | n.衣领
 exchange | n./v.交换，交流，兑换
 interview | n./v.采访；会见；面试
 bunch | n.串，束
-outside | n.外面，外表，外界；adv.在外面，向外面，出界；
-adj.外面的，外表的；prep.在…外
+outside | n.外面，外表，外界；adv.在外面，向外面，出界； adj.外面的，外表的；prep.在…外
 try | v.尝试,试图，努力
 find | vt.找到，发现，感到
 space | n.空白处，空地；空间，太空
