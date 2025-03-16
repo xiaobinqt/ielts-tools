@@ -57,6 +57,7 @@ def main(filename, words_book, chapter):
     # 输出结果
     if mismatched:
         print(f"""
+单词打卡。
 {book_name}/{chapter} 共有单词: {len(origin_words)}, 共错误了 {len(mismatched)} 个单词。听写时间：{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}。
 错误的单词如下，错误单词 -> 正确单词
 """)
@@ -70,10 +71,10 @@ def main(filename, words_book, chapter):
         try:
             wrong_words_filename = f"wrong_words/{datetime.now().strftime("%Y-%m-%d")}-{book_name}-{chapter}.txt"
             with open(wrong_words_filename, 'w', encoding='utf-8') as f:
-                for _, correct in mismatched:
+                for wrong, correct in mismatched:
                     # 写入格式：correct | definition
                     f.write(f"{correct} | {origin_words_map[correct]}\n")
-            print(f"\n错误单词已写入到 {wrong_words_filename} 文件中")
+            print(f"\n错误单词已写入到 {wrong_words_filename} 文件中，方便复习。")
         except Exception as e:
             print(f"写入文件时发生错误：{e}")
 
